@@ -3781,6 +3781,8 @@ with pkgs;
 
   libfann = callPackage ../development/libraries/libfann { };
 
+  libhandy = callPackage ../development/libraries/libhandy { };
+
   libipfix = callPackage ../development/libraries/libipfix { };
 
   libircclient = callPackage ../development/libraries/libircclient { };
